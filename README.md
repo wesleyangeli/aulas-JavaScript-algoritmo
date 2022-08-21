@@ -19,4 +19,4 @@
 - Como posso abstrair os passos “de cabeça” para código, observando a sequência dos passos utilizados;
 - Que, para resolver um problema, muitas vezes utilizamos mais de um algoritmo; para resolver isso, criamos a função menorValor() para reaproveitar o código junto com o Selection Sort.
 
-###Aula 3:
+### Aula 3:
