@@ -1,5 +1,7 @@
 # JavaScript I: algoritmos de ordenação
 
+O conhecimento é poder. Aprender algo novo nos dá um certo senso de domínio sobre o assunto, mas esse sentimento logo some quando não temos como fixar o que aprendemos na nossa memória. Escolhi o GitHub onde vou documentar o conteúdo aprendido para facilitar a memorização e, consequentemente, aumentar o meu conhecimento.
+
 ## Aprendi nesse curso de JavaScript:
 
 - &#9745; O que são algoritmos e por que são importantes;
