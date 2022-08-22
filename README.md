@@ -7,7 +7,7 @@
 - &#9745; Entendi como extrair a lógica do algoritmo e traduzi-la em código;
 - &#9745; Vi mais de uma forma de resolver um mesmo problema com algoritmos diferentes;
 - &#9745; Utilizei algoritmos em conjunto para resolver um problema de programação;
-- &#9744; Aprendi os conceitos básicos para a análise de complexidade de algoritmos;
+- &#9745; Aprendi os conceitos básicos para a análise de complexidade de algoritmos;
 
 ### Na aula 1 aprendi:
 
