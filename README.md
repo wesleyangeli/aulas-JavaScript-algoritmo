@@ -41,6 +41,7 @@ O conhecimento é poder. Aprender algo novo nos dá um certo senso de domínio s
 - Que é bem fácil “explodir” a capacidade de processamento de um computador com uma quantidade grande de operações, devido à influência da quantidade de dados na curva de complexidade de um algoritmo;
 - Que devemos levar esse índice de crescimento em conta na hora de definirmos qual algoritmo será utilizado para resolver um problema, especialmente quando envolve grandes quantidades de dados e para isso podemos utilizar a análise assintótica e a notação O grande;
 - Que existem várias notações e vários algoritmos “prontos”, como o Selection Sort e o Insertion Sort, entre diversos outros, cada um com suas vantagens e desvantagens.
+  <br>
 
 ## JavaScript II: aprofundando em algoritmos de ordenação e busca
 
