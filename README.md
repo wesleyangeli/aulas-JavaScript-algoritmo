@@ -4,15 +4,6 @@ O conhecimento é poder. Aprender algo novo nos dá um certo senso de domínio s
 
 ## JavaScript I: algoritmos de ordenação
 
-### Aprendi nesse curso de JavaScript:
-
-&#9745; O que são algoritmos e por que são importantes;<br>
-&#9745; Como utilizamos algoritmos no dia a dia;<br>
-&#9745; Entendi como extrair a lógica do algoritmo e traduzi-la em código;<br>
-&#9745; Vi mais de uma forma de resolver um mesmo problema com algoritmos diferentes;<br>
-&#9745; Utilizei algoritmos em conjunto para resolver um problema de programação;<br>
-&#9745; Aprendi os conceitos básicos para a análise de complexidade de algoritmos;<br>
-
 #### Na aula 1 aprendi:
 
 - Algoritmos são sequências finitas de passos lógicos para a resolução de um problema e que podem representar tanto problemas comuns em programação quanto qualquer situação que envolva passos lógicos;
@@ -50,3 +41,13 @@ O conhecimento é poder. Aprender algo novo nos dá um certo senso de domínio s
 - Que é bem fácil “explodir” a capacidade de processamento de um computador com uma quantidade grande de operações, devido à influência da quantidade de dados na curva de complexidade de um algoritmo;
 - Que devemos levar esse índice de crescimento em conta na hora de definirmos qual algoritmo será utilizado para resolver um problema, especialmente quando envolve grandes quantidades de dados e para isso podemos utilizar a análise assintótica e a notação O grande;
 - Que existem várias notações e vários algoritmos “prontos”, como o Selection Sort e o Insertion Sort, entre diversos outros, cada um com suas vantagens e desvantagens.
+
+## JavaScript II: aprofundando em algoritmos de ordenação e busca
+
+#### Na aula 1 aprendi:
+
+-Posso pensar em novas formas de “atacar” um problema de ordenação, começando a partir de partes menores já ordenadas e unindo estas partes em uma única lista ordenada;
+-Evoluí o conceito e testei o funcionamento do algoritmo com uma simulação sem código, similar ao “teste de mesa”, para entender quais operações deverão ser feitas pelo código durante o fluxo de execução do programa;
+-Após utilizar a simulação para entender o fluxo do algoritmo e o que ele deve fazer, desenvolvi um código em JavaScript para implementá-lo através da função juntaListas(), que percorre cada uma das duas listas informadas por parâmetro, compara os valores de cada uma, posiciona estes valores em uma lista única de acordo com o resultado da comparação e, por fim, retorna a lista unida.
+
+#### Na aula 2 aprendi:
