@@ -46,8 +46,13 @@ O conhecimento é poder. Aprender algo novo nos dá um certo senso de domínio s
 
 #### Na aula 1 aprendi:
 
--Posso pensar em novas formas de “atacar” um problema de ordenação, começando a partir de partes menores já ordenadas e unindo estas partes em uma única lista ordenada;
--Evoluí o conceito e testei o funcionamento do algoritmo com uma simulação sem código, similar ao “teste de mesa”, para entender quais operações deverão ser feitas pelo código durante o fluxo de execução do programa;
--Após utilizar a simulação para entender o fluxo do algoritmo e o que ele deve fazer, desenvolvi um código em JavaScript para implementá-lo através da função juntaListas(), que percorre cada uma das duas listas informadas por parâmetro, compara os valores de cada uma, posiciona estes valores em uma lista única de acordo com o resultado da comparação e, por fim, retorna a lista unida.
+- Posso pensar em novas formas de “atacar” um problema de ordenação, começando a partir de partes menores já ordenadas e unindo estas partes em uma única lista ordenada;
+- Evoluí o conceito e testei o funcionamento do algoritmo com uma simulação sem código, similar ao “teste de mesa”, para entender quais operações deverão ser feitas pelo código durante o fluxo de execução do programa;
+- Após utilizar a simulação para entender o fluxo do algoritmo e o que ele deve fazer, desenvolvi um código em JavaScript para implementá-lo através da função juntaListas(), que percorre cada uma das duas listas informadas por parâmetro, compara os valores de cada uma, posiciona estes valores em uma lista única de acordo com o resultado da comparação e, por fim, retorna a lista unida.
 
 #### Na aula 2 aprendi:
+
+- Expandi o conceito de “dividir para conquistar”, reutilizando a lógica de ordenar duas listas, e desenvolvi um algoritmo para ordenar uma única lista;
+- Utilizando o recurso das simulações e testes, entendi o funcionamento de um algoritmo de ordenação muito utilizado no dia-a-dia, o Merge Sort;
+- Após entender o fluxo do algoritmo, fiz a implementação do algoritmo Merge Sort com JavaScript, através da função mergeSort() que recebe um array e retorna este array ordenado;
+- Estudei a ferramenta de recursão, como ela pode ser utilizada no algoritmo Merge Sort e as diferenças dessa ferramenta com relação aos laços de repetição.
