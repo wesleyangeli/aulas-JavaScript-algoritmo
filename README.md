@@ -64,3 +64,12 @@ O conhecimento é poder. Aprender algo novo nos dá um certo senso de domínio s
 - Após posicionar um elemento pivô em um array, desenvolvi um código em JavaScript que percorre uma lista e separa todos os elementos entre maiores e menores que o pivô, através da função `encontraMenores()`;
 - A partir do conceito de elemento pivô, entendi o funcionamento do algoritmo de ordenação quick sort, fazendo mais simulações e testes;
 - Após entender o algoritmo, implementei o código utilizando JavaScript e reaproveitando funções e conceitos das aulas anteriores, como a função `trocaLugar()` e a recursão.
+
+#### Na aula 4 aprendi:
+
+- Apliquei novamente o paradigma “dividir para conquistar” para desenvolver o algoritmo de busca chamado busca binária;
+- Utilizei recursão para manipular um array ordenado e buscar um elemento, seguindo o fluxo da busca binária que foi visto nas simulações e testes;
+- Desenvolvi código em JavaScript para implementar o algoritmo de busca binária;
+- Continuei a prática de funções recursivas, vendo o funcionamento do “caso base”, que pode ser considerada como a condição de parada de uma função recursiva.
+
+#### Na aula 5 aprendi:
