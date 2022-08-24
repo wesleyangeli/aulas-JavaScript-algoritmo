@@ -57,3 +57,10 @@ O conhecimento é poder. Aprender algo novo nos dá um certo senso de domínio s
 - Utilizando o recurso das simulações e testes, entendi o funcionamento de um algoritmo de ordenação muito utilizado no dia-a-dia, o Merge Sort;
 - Após entender o fluxo do algoritmo, fiz a implementação do algoritmo Merge Sort com JavaScript, através da função mergeSort() que recebe um array e retorna este array ordenado;
 - Estudei a ferramenta de recursão, como ela pode ser utilizada no algoritmo Merge Sort e as diferenças dessa ferramenta com relação aos laços de repetição.
+
+#### Na aula 3 aprendi:
+
+- Trabalhei com o conceito de pivô, entendi como selecionar um elemento pivô no código e como posicionar este elemento em uma lista, comparando valores e contando elementos menores;
+- Após posicionar um elemento pivô em um array, desenvolvi um código em JavaScript que percorre uma lista e separa todos os elementos entre maiores e menores que o pivô, através da função `encontraMenores()`;
+- A partir do conceito de elemento pivô, entendi o funcionamento do algoritmo de ordenação quick sort, fazendo mais simulações e testes;
+- Após entender o algoritmo, implementei o código utilizando JavaScript e reaproveitando funções e conceitos das aulas anteriores, como a função `trocaLugar()` e a recursão.
