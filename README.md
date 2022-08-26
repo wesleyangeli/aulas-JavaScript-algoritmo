@@ -1,6 +1,10 @@
 # Algoritmos com Javascript
 
-O conhecimento é poder. Aprender algo novo nos dá um certo senso de domínio sobre o assunto, mas esse sentimento logo some quando não temos como fixar o que aprendemos na nossa memória. Escolhi o GitHub onde vou documentar o conteúdo aprendido para facilitar a memorização e, consequentemente, aumentar o meu conhecimento.
+### Introdução:
+
+Desde o início da minha carreira, sempre tive a consciência da importância de documentar o que eu aprendia. A documentação é importante para o aprimoramento do seu conhecimento, para a organização das suas ideias e, principalmente, para que você possa compartilhar o seu conhecimento com outras pessoas.
+
+Na área da programação, a documentação é essencial para que você possa compreender o código que está escrevendo e para que outras pessoas possam entender o seu código. Além disso, a documentação é importante para registrar as suas ideias e soluções de problemas, para que você possa consultá-las posteriormente.
 
 ## JavaScript I: algoritmos de ordenação
 
