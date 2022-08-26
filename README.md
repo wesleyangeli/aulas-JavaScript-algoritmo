@@ -77,3 +77,7 @@ Na área da programação, a documentação é essencial para que você possa co
 - Continuei a prática de funções recursivas, vendo o funcionamento do “caso base”, que pode ser considerada como a condição de parada de uma função recursiva.
 
 #### Na aula 5 aprendi:
+
+- Aprendi a fazer a análise assintótica do algoritmo de busca binária e por que este é considerado um algoritmo de complexidade logarítmica, em comparação com a busca linear que é um algoritmo de complexidade linear;
+- Fiz a análise assintótica dos algoritmos de ordenação quick sort e merge sort e analisei o código para entender por que são considerados algoritmos de complexidade linear-logarítmica;
+- E o que significa, em termos de performance, a diferença entre algoritmos de crescimento linear, quadrático e logarítmico.
